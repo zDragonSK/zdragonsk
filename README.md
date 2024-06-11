@@ -1,8 +1,8 @@
 ## About me 
 I'm a programmer and technology enthusiast. I'm looking for projects to post and build my profile.
-- 📚 I'm currently learning **Web3** and **AI**;
-- 📖 Starting in **Rust**;
-- 🧠 Enthusiast in **Artificial Intelligence**. 
+- 📚 I'm currently learning **ReactJS** and **AI**;
+- 📖 Starting in **Web3 Security**;
+- 🧠 Enthusiast in **Artificial Intelligence** with private model. 
 - 🖥️ **Arch Linux** user;
 - 🎹 Interested in **piano** and **Astronomy**.
 
