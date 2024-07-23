@@ -7,4 +7,4 @@ I'm a programmer and technology enthusiast. I'm looking for projects to post and
 - 🎹 Interested in **piano** and **Astronomy**.
 
 Talk to me on [Discord](https://discord.com/users/314858301726785546).
-My server on [CyberZ](https://discord.gg/puvutH2h95).
+My server on [hellZ](https://discord.gg/hellz).
