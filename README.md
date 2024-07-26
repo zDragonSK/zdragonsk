@@ -6,5 +6,7 @@ I'm a programmer and technology enthusiast. I'm looking for projects to post and
 - 🖥️ **Arch Linux** user;
 - 🎹 Interested in **piano** and **Astronomy**.
 
-Talk to me on [Discord](https://discord.com/users/314858301726785546).
+Talk to me on [Discord](https://discord.com/users/314858301726785546) or [Telegram](https://t.me/zDragonSK). <br>
 My server on [hellZ](https://discord.gg/hellz).
+<br> <br>
+[About me](https://zdragonsk.top)
